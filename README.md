@@ -5,7 +5,7 @@
 Giovanna  
 Larissa Jacinto Bispo Christofoletti   
 Guilherme  
-Igor  
+Igor Eduardo Dallan do Couto
 
 ## 📌 Objetivo
 O projeto tem como objetivo analisar a **cobertura territorial do Programa Bolsa Família** identificando:  
