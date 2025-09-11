@@ -18,10 +18,10 @@ O projeto tem como objetivo analisar a **cobertura territorial do Programa Bolsa
   
 ## 📁 Estrutura do Repositório
 - `data/` → Bases de dados (originais e tratadas)
-- `notebooks` → Jupyter notebooks com análises
-- `scripts`→ Códigos utilizados para limpeza e análises
+- `docs` → Jupyter notebooks com análises
+- `notebooks`→ Códigos utilizados para limpeza e análises
 - `reports/`→ Relatórios e visualizações finais
-- `docs/`→ Documentos de apoio e referências
+- `scripts/`→ Documentos de apoio e referências
 - `README.md`→ Documento principal do projeto
 
 ---
