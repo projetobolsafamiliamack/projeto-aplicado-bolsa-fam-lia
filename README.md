@@ -3,9 +3,17 @@
 
 ## 👤 Autores
 Giovanna da Silva Santos   
-Larissa Jacinto Bispo Christofoletti     
+Larissa Jacinto Bispo Christofoletti   
 Guilherme Barros Toledo Batista  
-Igor Eduardo Dallan do Couto  
+Igor Eduardo Dallan do Couto   
+
+---
+## 🗒️Sumário
+1. [Objetivo](#-Objetivo)
+2. [Estrutura do Repositório](#-Estrutura-do-Repositório)
+3. [Database](#-Database)
+4. [Metodologia Utilizada](#-Metodologia-Utilizada)
+5. [Resultados Esperados](#-Resultados-Esperados)
 
 ## 📌 Objetivo
 O projeto tem como objetivo analisar a **cobertura territorial do Programa Bolsa Família** identificando:  
@@ -24,13 +32,6 @@ O projeto tem como objetivo analisar a **cobertura territorial do Programa Bolsa
 - `scripts/`→ Documentos de apoio e referências
 - `README.md`→ Documento principal do projeto
 
----
-## 🗒️Sumário
-1. [Objetivo](#-Objetivo)
-2. [Estrutura do Repositório](#-Estrutura-do-Repositório)
-3. [Database](#-Database)
-4. [Metodologia Utilizada](#-Metodologia-Utilizada)
-5. [Resultados Esperados](#-Resultados-Esperados)
 
 ---
 ## 📊 Database
@@ -54,3 +55,5 @@ Todos os dados foram obtidos em fontes oficiais:
 - Mapa e gráficos mostrando a cobertura do Bolsa Família no território nacional;
 - Identificação de desigualdades regionais;
 - Insights para políticas públicas mais direcionadas;
+
+---
