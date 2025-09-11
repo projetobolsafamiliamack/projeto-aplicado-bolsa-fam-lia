@@ -2,10 +2,10 @@
 
 
 ## 👤 Autores
-Giovanna  
-Larissa Jacinto Bispo Christofoletti   
-Guilherme  
-Igor Eduardo Dallan do Couto
+Giovanna da Silva Santos   
+Larissa Jacinto Bispo Christofoletti     
+Guilherme Barros Toledo Batista  
+Igor Eduardo Dallan do Couto  
 
 ## 📌 Objetivo
 O projeto tem como objetivo analisar a **cobertura territorial do Programa Bolsa Família** identificando:  
