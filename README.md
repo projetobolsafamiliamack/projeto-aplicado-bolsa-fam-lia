@@ -2,10 +2,10 @@
 
 
 ## 👤 Autores
-Giovanna da Silva Santos   
-Larissa Jacinto Bispo Christofoletti   
+Giovanna da Silva Santos     
 Guilherme Barros Toledo Batista  
-Igor Eduardo Dallan do Couto   
+Igor Eduardo Dallan do Couto  
+Larissa Jacinto Bispo Christofoletti   
 
 ---
 ## 🗒️Sumário
