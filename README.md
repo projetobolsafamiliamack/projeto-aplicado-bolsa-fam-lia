@@ -57,3 +57,17 @@ Todos os dados foram obtidos em fontes oficiais:
 - Insights para políticas públicas mais direcionadas;
 
 ---
+## Apresentação no Youtube
+
+[Apresentação do Youtube](https://youtu.be/NHB6WCcit8o)
+
+
+
+
+
+## 🎯Resultados Esperados
+- Mapa e gráficos mostrando a cobertura do Bolsa Família no território nacional;
+- Identificação de desigualdades regionais;
+- Insights para políticas públicas mais direcionadas;
+
+---
