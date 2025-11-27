@@ -63,11 +63,3 @@ Todos os dados foram obtidos em fontes oficiais:
 
 
 
-
-
-## 🎯Resultados Esperados
-- Mapa e gráficos mostrando a cobertura do Bolsa Família no território nacional;
-- Identificação de desigualdades regionais;
-- Insights para políticas públicas mais direcionadas;
-
----
